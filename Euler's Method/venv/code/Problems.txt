@@ -1,0 +1,49 @@
+
+
+Example Function Problem
+
+    Initial Time (t0t0​): 0
+    Initial Value (y0y0​): 1
+    End Time (tendtend​): 10
+    Step Size (hh): 0.1
+
+Harmonic Oscillator Problem
+
+    Initial Time (t0t0​): 0
+    Initial Displacement (y0y0​): 1
+    End Time (tendtend​): 10
+    Step Size (hh): 0.1
+    Omega (ωω): 1
+
+Population Growth Problem
+
+    Initial Time (t0t0​): 0
+    Initial Population (y0y0​): 100
+    End Time (tendtend​): 10
+    Step Size (hh): 0.1
+
+
+
+
+
+Example Function
+
+    t0t0​: 0
+    y0y0​: 1
+    tendtend​: 10
+    hh: 0.1
+
+Harmonic Oscillator
+
+    t0t0​: 0
+    y0y0​: 1
+    tendtend​: 10
+    hh: 0.1
+    ωω: 1
+
+Population Growth
+
+    t0t0​: 0
+    y0y0​: 100
+    tendtend​: 10
+    hh: 0.1

@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # type: ignore
 
 def euler_method(f, t0, y0, t_end, h):
     t_values = np.arange(t0, t_end + h, h)

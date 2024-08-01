@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # type: ignore
 
 def example_function(t, y):
     return -2 * t * y
